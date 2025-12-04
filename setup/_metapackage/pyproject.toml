@@ -2,7 +2,6 @@
 name = "odoo-addons-oca-server-brand"
 version = "19.0.20251111.0"
 dependencies = [
-    "odoo-addon-disable_odoo_online==19.0.*",
     "odoo-addon-website_debranding==19.0.*",
 ]
 classifiers=[
